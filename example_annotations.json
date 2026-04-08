@@ -1,0 +1,12 @@
+[
+  {
+    "patient_id": 1,
+    "label": "Diabetes",
+    "confidence": 0.95
+  },
+  {
+    "patient_id": 2,
+    "label": "Normal",
+    "confidence": 0.98
+  }
+]
