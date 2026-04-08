@@ -4,3 +4,4 @@ patient_id,age,fasting_glucose,hba1c,bmi,diagnosis
 3,60,150,7.5,31,Type 2 Diabetes
 4,50,110,6.1,27,Prediabetes
 5,29,88,5.2,22,Normal
+6,50,90,5.1,24,Normal
