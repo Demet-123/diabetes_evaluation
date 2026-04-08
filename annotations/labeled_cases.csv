@@ -1,1 +1,11 @@
-
+patient_id,annotator_label,confidence
+1,Type 2 Diabetes,0.96
+2,Normal,0.98
+3,Type 2 Diabetes,0.98
+4,prediabetes,0.95
+5,Normal,0.99
+6,Normal,0.99
+7,Type 2 Diabetes,0.99
+8,Prediabetes,0.95
+9,Type 2 Diabetes,0.98
+10,Normal,0.98
